@@ -13,6 +13,7 @@ public class Number5Series {
 		}
 			for(i=0;i<5;i++) {
 				System.out.println(arr[i]);
+				System.out.println("Table generated");
 }
 }
 	}
